@@ -75,6 +75,7 @@ function checkOre() {
             case "GRADIENCE":
             case "EXOPOLIS":
             case "CANIVESIUM":
+            case "ASSAILANT":
                 title.innerHTML = defaultYesMessage;
                 break;
             case "KILLBOT CRYSTAL":
